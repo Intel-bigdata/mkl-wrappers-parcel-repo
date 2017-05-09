@@ -1,0 +1,104 @@
+{
+    "parcels": [
+        {
+            "hash": "2798edffb97eed87fc7aeda7fbc9f29d899b98ec",
+            "parcelName": "mkl_wrapper_parcel-1.0-sles11.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "2798edffb97eed87fc7aeda7fbc9f29d899b98ec",
+            "parcelName": "mkl_wrapper_parcel-1.0-el7.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "2798edffb97eed87fc7aeda7fbc9f29d899b98ec",
+            "parcelName": "mkl_wrapper_parcel-1.0-squeeze.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "2798edffb97eed87fc7aeda7fbc9f29d899b98ec",
+            "parcelName": "mkl_wrapper_parcel-1.0-wheezy.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "2798edffb97eed87fc7aeda7fbc9f29d899b98ec",
+            "parcelName": "mkl_wrapper_parcel-1.0-trusty.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "2798edffb97eed87fc7aeda7fbc9f29d899b98ec",
+            "parcelName": "mkl_wrapper_parcel-1.0-precise.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "06769a43c73eac8e753e8a41475394617631c309",
+            "parcelName": "mkl_wrapper_parcel-1.0-el6.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "2798edffb97eed87fc7aeda7fbc9f29d899b98ec",
+            "parcelName": "mkl_wrapper_parcel-1.0-lucid.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        },
+        {
+            "hash": "06769a43c73eac8e753e8a41475394617631c309",
+            "parcelName": "mkl_wrapper_parcel-1.0-el5.parcel",
+            "components": [
+                {
+                    "pkg_version": "1.0",
+                    "version": "1.0",
+                    "name": "mkl_wrapper_parcel"
+                }
+            ]
+        }
+    ],
+    "lastUpdated": 1494243840477
+}
